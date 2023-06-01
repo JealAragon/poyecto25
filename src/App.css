@@ -1,0 +1,9 @@
+.fontImg {
+  background-image: url("/public/images/cerro7colores.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+
+
+}
